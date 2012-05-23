@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_a05708
 sample commit
+=======
+sample content
+>>>>>>> .merge_file_a07836
